@@ -49,6 +49,7 @@
 
 <script>
 export default {
+  // 2-29合并login+user
   data() {
     return {
       // 左侧菜单数据
