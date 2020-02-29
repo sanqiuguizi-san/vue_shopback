@@ -105,7 +105,7 @@
 
 <script>
 export default {
-  
+  // user finish
   data() {
     // 验证邮箱的规则
     var checkEmail = (rule, value, cb) => {
